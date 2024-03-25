@@ -1,0 +1,29 @@
+venv/
+
+__pycache__
+.ipynb_checkpoints
+.pytest_cache
+
+
+# Environment variables
+.env
+
+# Data
+/pipeline/historical
+/pipeline/metadata
+/pipeline/data_tests.ipynb
+*.csv
+/week-2_pipeline/data_exploration.ipynb
+
+# Dashboard
+.themes.txt
+.streamlit
+
+# Report
+/report/html.py
+
+# Terraform
+/terraform/*.hcl
+/terraform/.terraform
+/terraform/terraform.tfvars
+/terraform/*.tfstate*
