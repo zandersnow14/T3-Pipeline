@@ -15,9 +15,7 @@ __pycache__
 *.csv
 /week-2_pipeline/data_exploration.ipynb
 
-# Dashboard
-.themes.txt
-.streamlit
+
 
 # Report
 /report/html.py
