@@ -1,0 +1,6 @@
+pytest
+pylint
+boto3
+pandas
+python-dotenv
+redshift_connector
