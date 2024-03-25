@@ -13,7 +13,7 @@ Ideally, the end result of this pipeline would include
 This project aims to achieve this, and serves as a chance for me to get experience setting up and scheduling cloud resources, as well as learning a new dashboarding framework (Streamlit) and a new dialect of SQL (Redshift).
 
 ## 🛠️ Architecture
-Enter image here
+![Architecture Diagram](./diagrams/architecture.png)
 
 ## ⚙️ Setup
 Follow the instructions provided in the `README.md` files located in each folder.
